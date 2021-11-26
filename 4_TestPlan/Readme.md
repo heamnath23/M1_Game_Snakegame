@@ -12,5 +12,5 @@
 | ID   |      Description     |  Expected O/P |
 |----------|:-------------:|------:|
 | LLTP_1 |  List of operations displayed | Implemented  |
-| LLTP_2 |  Input from the user  | Implemented  |
-| LLTP_3 |  Exit the program  | Implemented  |
+| LLTP_2 |  Input from the player | Implemented  |
+| LLTP_3 |  Exit the game | Implemented  |
