@@ -1,7 +1,8 @@
 
 # REQUIREMENTS:
 ## SNAKE GAME APPLICATION:
-the game called "snake" or "snake game" typically the player controlling a line or snake.The most common version of this game involves the snake or line eating items which make it longer,with the objective being to avoid running into a border or the snake itself for as long as possible.the player loses when the snake either runs into a border or its own body.The Project is developed in C language. The main objective of the project of snake game is:
+the game called "snake" or "snake game" typically the player controlling a line or snake.The most common version of this game involves the snake or line eating items which make it longer,with the objective being to avoid running into a border or the snake itself for as long as possible.the player loses when the snake either runs into a border or its own body.The Project is developed in C language. 
+* The main objective of the project of snake game is:
 1.A simple console application with very simple graphics.
 2.Foods are provided at the screen for the snake to eat.
 3.Every time the snake eats the food,its length will be increased by one element along with the score.
